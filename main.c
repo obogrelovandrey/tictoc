@@ -125,7 +125,7 @@ int playerTurn()
    
 }
 
-int aiTurn()
+int aiTurn()  //only random
 {
     int al, ac;
         
